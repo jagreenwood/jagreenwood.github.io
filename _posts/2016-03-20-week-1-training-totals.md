@@ -15,3 +15,4 @@ I found myself hustling at the end of the week to get everything in. While it lo
 |-----:|------|------|---|---|------|------|------|-------|
 |  Run | 3.18 |      |   |   | 1.98 | 5.02 |      | 10.18 |
 | Ruck |      | 2.23 |   |   |      | 2.99 | 5.06 | 10.28 |
+
